@@ -1,0 +1,42 @@
+#Contact {
+    background-color: #fff;
+    padding: 3rem;
+    border-radius: 8px;
+    max-width: 700px;
+    margin: 2rem auto;
+}
+
+#Contact h1 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+#Contact p {
+    margin-bottom: 1.5rem;
+    color: #374152;
+}
+
+#Contact ul {
+    list-style: none;
+    padding: 0;
+}
+
+#Contact li {
+    margin-bottom: 0.8rem;
+    font-size: 1rem;
+}
+
+#Contact a {
+    color: #2563eb;
+    text-decoration: none;
+}
+
+#Contact a:hover {
+    text-decoration: underline;
+}
+
+#Contact strong {
+    color: #111827;
+}
+
+#Contact 
